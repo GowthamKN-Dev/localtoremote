@@ -1,0 +1,1 @@
+print ['new python file adding to text new file concept in visual studio']
